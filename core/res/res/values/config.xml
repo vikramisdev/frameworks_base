@@ -1520,7 +1520,7 @@
 
     <!-- Note: This setting is deprecated, please use
     config_screenBrightnessSettingMaximumFloat instead -->
-    <integer name="config_screenBrightnessSettingMaximum">255</integer>
+    <integer name="config_screenBrightnessSettingMaximum">4095</integer>
 
     <!-- Note: This setting is deprecated, please use
     config_screenBrightnessSettingDefaultFloat instead -->
